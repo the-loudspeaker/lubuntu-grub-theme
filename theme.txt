@@ -1,8 +1,8 @@
 # custom grub theme for lubuntu
 
 desktop-image: "background.png"
-title-text: "Select a boot option"
-title-color: "#000000"
+# title-text: "Select a boot option"
+# title-color: "#eff0f1"
 message-color: "#eff0f1"
 terminal-box: "terminal_*.png"
 
@@ -14,8 +14,8 @@ terminal-box: "terminal_*.png"
 
   menu_pixmap_style = "boot_menu_*.png"
 
-  item_color = "#7f8c8d"
-  item_height = 44
+  item_color = "#eff0f1"
+  item_height = 50
   item_icon_space = 8
   item_spacing = 2
 
@@ -37,7 +37,7 @@ terminal-box: "terminal_*.png"
   top = 73%
   height = 8
   show_text = false
-  fg_color = #3daee9
+  fg_color = #275772
   bg_color = #31363b
   border_color = #4d4d4d
 }
