@@ -1,6 +1,7 @@
 # custom grub theme for lubuntu
 
 desktop-image: "background.png"
+desktop-image-scale-method: "stretch"
 # title-text: "Select a boot option"
 # title-color: "#eff0f1"
 message-color: "#eff0f1"
