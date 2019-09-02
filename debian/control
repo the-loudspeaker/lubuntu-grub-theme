@@ -1,0 +1,14 @@
+Source: lubuntu-grub-theme
+Section: graphics
+Priority: optional
+Maintainer: Raman Sarda <ramansarda2000@gmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: https://github.com/ramansarda2000/lubuntu-grub-theme/
+
+Package: lubuntu-grub-theme
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Theme for lubuntu's grub screen
+ Custom grub theme for lubuntu. Inspired from 
+ breeze theme.

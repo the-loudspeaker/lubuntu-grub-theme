@@ -1,0 +1,2 @@
+lubuntu-grub-theme /boot/grub/themes/
+theme.cfg /etc/default/grub.d/
