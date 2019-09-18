@@ -1,3 +1,9 @@
+lubuntu-grub-theme (1.0-1ppa1) eoan; urgency=medium
+
+  * Added seprate script for grub.d
+
+ -- Raman Sarda <theloudspeaker@lubuntu.me>  Mon, 02 Sep 2019 02:00:53 +0000
+
 lubuntu-grub-theme (1.0-1) eoan; urgency=medium
 
   * Initial release  * 
